@@ -1,0 +1,547 @@
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AVX00260_2C_07E0_AB : ScalingConfig
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\ADAPTER_10DE_1E07_00000001_00000000 : StereoPreferredTargetIdRegistryKey
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : Type
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AUS278F16843009_31_07E5_FB : ScalingConfig
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : ObjectName
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : Start
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : ReleaseAssertBehavior
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\ENUM : Count
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\ENUM : 0
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : BootFlags
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : ImagePath
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : UseOldFBCPath
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : RealTimeRunlist
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : RealTimeRunlistLimitMs
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : BuffersInFlight
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : PrimaryPushBufferSize
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : PreferSystemMemoryPTEs
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : PreferSystemMemoryScratch
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : PreferSystemMemoryContiguous
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : EnablePerformanceMode
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : ForceVAAlignment2M
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : PushBufferLocation
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : SemaphoreLocation
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : RotateFlag
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : prtLevel
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : prtBreak
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : EnableDynamicEdidMode
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : EnableRmEscape
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : DispCtrl
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : Emulator
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : EmulatorDeviceMask
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : bForceDualVideoBridgeMode
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : TDRTestEnableTiming
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : EnableDirectFlip
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : EnableSegmentPreservation
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : ModsMode
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : DriverModel
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : DisableKmRender
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : DisableKmRenderStage
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : DisableKmRenderBoost
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : LogEventEntries
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : LogErrorEntries
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : LogWarningEntries
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : LogPagingEntries
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : EvoTimeoutBugcheck
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : DisableBugcheckCallback
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : NVFBCEnable
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : ValidateBlitSubRects
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : EnableMosaicBlitSlicing
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : EnableComputeReset
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : EnableCEPaging
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : EnableSparseTexture
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : EnableRegistry
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : EnableCrossAdapterResource
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : EnableLoadImage
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : DisablePreemption
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : GC6Threshold
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : EnableMidBufferPreemption
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : EnableCEPreemption
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : EnableRewind
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : EnableMidBufferPreemptionForHighTdrTimeout
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : EnableAsyncMidBufferPreemption
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : EnableSCGMidBufferPreemption
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : PerfAnalyzeMidBufferPreemption
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : EnableMidGfxPreemption
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : EnableMidGfxpSharedBuffer
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : EnableMidGfxPreemptionVGPU
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : DisablePreemptionOnS3S4
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : DisableDeferredMidbufferPostProcessing
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : MaxGfxpSupportNumber
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : EnableNopPaddingMBP
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : MoveToBufferBoundaryPreemption
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : EnableReleaseDisplayOwnership
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : EnableBugcheckDisplay
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : EnableBugcheckTinting
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : EnableValidationOfGPUMemoryAddressability
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : EnableKMBufferResetEngineOnNonSLI
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : DisableDWMContexts
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : EnableForceIgpuDgpuFromUI
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : ForceCrossAdapterSurfacesToCachedMem
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : AllowHWGC6
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : DestroyAllocationAssumeNotInUse
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : DisableMSHybridCopyCQHas3D
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : AllowdGPUPassthrough
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : DisableCudaContextPreemption
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : HyperSamplingSettings
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : PStateControlType
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : UvmDisable
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : EnableWARLBDATEXTRA
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : EnablePageFaultDebugOutput
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : PageFaultDebugMode
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : WDDM1xUseContextAllocation
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : WDDM20UseContextAllocation
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : PresentSyncAppTimeoutMS
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : PresentSyncVblankTimeoutMS
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : PresentSyncAdaptiveVblankTimeoutMode
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : 1600877NV
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : 1893545NV
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : UsePrivateNonStaticDSRShaderResources
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : EnableBlackListingSurpriseRemovalWAR
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : EnableRedundantAdapterCheckingForXGPU
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : ReportVblankImmediatelyOnDisplaylessHw
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : AllowRestrictedTeslaOnWDDM
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : EnableGFESharedMemory
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : LargeSurfSizeBy2DFill
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : CppKernelNotEnforced
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : UseDpcForGpuWatchdogCallback
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : EnableNodeCuda
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : NodeCudaTimeSlice
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : WakeUpAllAdapters
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : DisableMshybridNvsrSwitch
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : EnableIMPSetGetParams
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : EnableCEFormatConversion
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : EnableFSN1368
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : EnableTestEscapes
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : EnableNvLinkControlObject
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : EnableHdr10Scanout
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : UseCompressibleKindForSystemProcess
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : AllowVgpuTcc
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\NVAPI : topocount
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : DD690272
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\ADAPTER_10DE_1E07_00000001_00000000 : StreamCloneState
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AVX00260_2C_07E0_D4 : SmoothScalingData
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AVX00260_2C_07E0_D4 : SmoothScalingMultiplierData
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AVX00260_2C_07E0_D4 : UpScalingData
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AVX00260_2C_07E0_D4 : UpScalingMultiplierData
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AVX00260_2C_07E0_D4 : ScalingConfig
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AUS278FMBLMQS278412_31_07E5_50 : SmoothScalingData
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AUS278FMBLMQS278412_31_07E5_50 : SmoothScalingMultiplierData
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AUS278FMBLMQS278412_31_07E5_50 : UpScalingData
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AUS278FMBLMQS278412_31_07E5_50 : UpScalingMultiplierData
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AUS278FMBLMQS278412_31_07E5_50 : ScalingConfig
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\CONNECTOR_10DE_1E07_00000001_00000000_100110 : ConnectorAudioData
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\CONNECTOR_10DE_1E07_00000001_00000000_100110 : ConnectorAudioDpAddress
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\CONNECTOR_10DE_1E07_00000001_00000000_100110 : DEStateRegistryKey
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\CONNECTOR_10DE_1E07_00000001_00000000_100111 : ConnectorAudioData
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\CONNECTOR_10DE_1E07_00000001_00000000_100111 : ConnectorAudioDpAddress
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\CONNECTOR_10DE_1E07_00000001_00000000_100111 : DEStateRegistryKey
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\CONNECTOR_10DE_1E07_00000001_00000000_100112 : ConnectorAudioData
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\CONNECTOR_10DE_1E07_00000001_00000000_100112 : ConnectorAudioDpAddress
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\CONNECTOR_10DE_1E07_00000001_00000000_100112 : DEStateRegistryKey
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\CONNECTOR_10DE_1E07_00000001_00000000_100113 : ConnectorAudioData
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\CONNECTOR_10DE_1E07_00000001_00000000_100113 : ConnectorAudioDpAddress
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\CONNECTOR_10DE_1E07_00000001_00000000_100113 : DEStateRegistryKey
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\CONNECTOR_10DE_1E07_00000001_00000000_100114 : ConnectorAudioData
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\CONNECTOR_10DE_1E07_00000001_00000000_100114 : ConnectorAudioDpAddress
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\CONNECTOR_10DE_1E07_00000001_00000000_100114 : DEStateRegistryKey
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\CONNECTOR_10DE_1E07_00000001_00000000_100115 : ConnectorAudioData
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\CONNECTOR_10DE_1E07_00000001_00000000_100115 : ConnectorAudioDpAddress
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\CONNECTOR_10DE_1E07_00000001_00000000_100115 : DEStateRegistryKey
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\CONNECTOR_10DE_1E07_00000001_00000000_100116 : ConnectorAudioData
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\CONNECTOR_10DE_1E07_00000001_00000000_100116 : ConnectorAudioDpAddress
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\CONNECTOR_10DE_1E07_00000001_00000000_100116 : DEStateRegistryKey
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\CONNECTOR_10DE_1E07_00000001_00000000_100117 : ConnectorAudioData
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\CONNECTOR_10DE_1E07_00000001_00000000_100117 : ConnectorAudioDpAddress
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\CONNECTOR_10DE_1E07_00000001_00000000_100117 : DEStateRegistryKey
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AVX00260_2C_07E0_AB : ColorspaceConfig
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AVX00260_2C_07E0_AB : SmoothScalingData
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AVX00260_2C_07E0_AB : SmoothScalingMultiplierData
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AVX00260_2C_07E0_AB : UpScalingData
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AVX00260_2C_07E0_AB : UpScalingMultiplierData
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AVX00260_2C_07E0_AB : HueRegistryKey
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AUS278F16843009_31_07E5_FB : ColorspaceConfig
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AUS278F16843009_31_07E5_FB : SmoothScalingData
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AUS278F16843009_31_07E5_FB : SmoothScalingMultiplierData
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AUS278F16843009_31_07E5_FB : UpScalingData
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AUS278F16843009_31_07E5_FB : UpScalingMultiplierData
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AUS278F16843009_31_07E5_FB : HueRegistryKey
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : PnpFlags
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : CMemoryAllocatorOn
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : CMemoryAllocatorFlags
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : CMemoryAllocatorCallStackDepth
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : CMemoryAllocatorFreeCount
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : RMNvLog
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : RMNvLogExtraBuffer2
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : RMNvLogExtraBuffer3
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : RMNvLogExtraBuffer4
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : RMNvLogExtraBuffer5
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : RMNvLogExtraBuffer6
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : RMNvLogExtraBuffer7
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\FTS : EnableRID72816
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : MaxHybridSurfSize
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\NVAPI : physXGpuId
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : LogEnableMasks
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : LogDisableMasks
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : 0x112493bd
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : 0x11aa9e99
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : 0x11e91a61
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : 0x11ae435c
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : 0x11333333
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : 0x11d9dc84
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : 0x11e21a53
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : 0x11e21666
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : 0x115fb4e6
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : 0x11112233
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : 0x11112255
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : 0x1194f158
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : 0x11e21665
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : 0x11e21667
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : 0x11c21ee5
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : 0x11fbdf11
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : 0x11112256
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : KMD_StackTraceControl
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\FTS : EnableFSN511
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : RmBreak
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : RmMemBacktraceStackDepth
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : RM1457588
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : RM1774520
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\FTS : EnableRID72557
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\FTS : EnableRID50422
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\FTS : EnableRID50787
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\FTS : EnableRID58285
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\FTS : EnableRID57152
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\FTS : EnableRID64949
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\FTS : EnableRID65715
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\FTS : EnableRID69477
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\FTS : EnableRID73287
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\FTS : EnableRID71548
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\FTS : EnableRID72558
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\FTS : EnableRID70579
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\FTS : EnableRID74361
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\FTS : EnableRID74501
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\FTS : EnableRID74712
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\FTS : EnableRID74340
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\FTS : EnableRID74521
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\FTS : EnableRID74945
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\FTS : EnableRID74632
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\FTS : EnableGR482
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\FTS : EnableGR506
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\FTS : EnableGR448
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\FTS : EnableGR538
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\FTS : EnableGR510
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\FTS : EnableGR692
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\FTS : EnableGR717
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : DisableSLIMMNHead
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\FTS : EnableRID68361
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase : 1641970VRcontext
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : ForceDLDVIOn4kTileDisplay
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\CONNECTOR_10DE_1E07_00000001_00000000_100112 : ConnectorWarpResamplingMethod
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\CONNECTOR_10DE_1E07_00000001_00000000_100113 : ConnectorWarpResamplingMethod
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase : EdidLockData
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AVX00260_2C_07E0_D4 : MonitorAudioData
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AVX00260_2C_07E0_D4 : ColorspaceConfig
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AVX00260_2C_07E0_D4 : VideoInfoframeOverride
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AVX00260_2C_07E0_D4 : ColorformatConfig
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AVX00260_2C_07E0_D4 : SaturationRegistryKey
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AVX00260_2C_07E0_D4 : HueRegistryKey
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AVX00260_2C_07E0_D4 : DitherRegistryKey
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AVX00260_2C_07E0_D4 : BrightnessCalibrationDataRegistryKey
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AUS278FMBLMQS278412_31_07E5_50 : MonitorAudioData
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AUS278FMBLMQS278412_31_07E5_50 : ColorspaceConfig
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AUS278FMBLMQS278412_31_07E5_50 : ColorformatConfig
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AUS278FMBLMQS278412_31_07E5_50 : SaturationRegistryKey
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AUS278FMBLMQS278412_31_07E5_50 : HueRegistryKey
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AUS278FMBLMQS278412_31_07E5_50 : DitherRegistryKey
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AUS278FMBLMQS278412_31_07E5_50 : BrightnessCalibrationDataRegistryKey
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\ADAPTER_10DE_1E07_00000001_00000000 : MergedDisplayDataRegistryKey
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AVX00260_2C_07E0_AB : MonitorAudioData
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AVX00260_2C_07E0_AB : VideoInfoframeOverride
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AVX00260_2C_07E0_AB : ColorformatConfig
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AVX00260_2C_07E0_AB : SaturationRegistryKey
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AVX00260_2C_07E0_AB : DitherRegistryKey
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AUS278F16843009_31_07E5_FB : MonitorAudioData
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AUS278F16843009_31_07E5_FB : ColorformatConfig
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AUS278F16843009_31_07E5_FB : SaturationRegistryKey
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm\DisplayDatabase\AUS278F16843009_31_07E5_FB : DitherRegistryKey
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : ErrorControl
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : Tag
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : Group
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : DependOnService
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : DependOnGroup
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : DisplayName
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : DelayedAutostart
+
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\nvlddmkm : DeleteFlag
