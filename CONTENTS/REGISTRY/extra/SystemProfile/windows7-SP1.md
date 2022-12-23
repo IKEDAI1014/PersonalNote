@@ -9,8 +9,7 @@
 \REGISTRY\MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile : NoLazyMode
 
 \REGISTRY\MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile : IdleDetectionCycles
-
-
+　　
 \REGISTRY\MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Audio : Scheduling Category
 
 \REGISTRY\MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Audio : Priority
@@ -26,8 +25,7 @@
 \REGISTRY\MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Audio : SFIO Priority
 
 \REGISTRY\MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Audio : BackgroundPriority
-
-
+　　
 \REGISTRY\MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Capture : Scheduling Category
 
 \REGISTRY\MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Capture : Priority
@@ -43,8 +41,7 @@
 \REGISTRY\MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Capture : SFIO Priority
 
 \REGISTRY\MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Capture : BackgroundPriority
-
-
+　　
 \REGISTRY\MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Distribution : Scheduling Category
 
 \REGISTRY\MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Distribution : Priority
@@ -60,8 +57,7 @@
 \REGISTRY\MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Distribution : SFIO Priority
 
 \REGISTRY\MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Distribution : BackgroundPriority
-
-
+　　
 \REGISTRY\MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Games : Scheduling Category
 
 \REGISTRY\MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Games : Priority
@@ -77,8 +73,7 @@
 \REGISTRY\MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Games : SFIO Priority
 
 \REGISTRY\MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Games : BackgroundPriority
-
-
+　　
 \REGISTRY\MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Playback : Scheduling Category
 
 \REGISTRY\MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Playback : Priority
@@ -111,8 +106,7 @@
 \REGISTRY\MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Pro Audio : SFIO Priority
 
 \REGISTRY\MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Pro Audio : BackgroundPriority
-
-
+　　
 \REGISTRY\MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Window Manager : Scheduling Category
 
 \REGISTRY\MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Window Manager : Priority
