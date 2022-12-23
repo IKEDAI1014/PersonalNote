@@ -1,8 +1,8 @@
 # Personal Note
 A personal note on optimizing your PC for gaming
 ## Contents
-- REGISTRY > List of registries used by windows
-- Benchs > List of benchmarks by me
+- [REGISTRY](/CONTENTS/REGISTRY/) > List of registries used by windows
+- [Benchs](/CONTENTS/Benchs) > List of benchmarks by me
 ## Setup
 2PC(one for gaming, one for browsing and recording, talking)
 ### main PC
