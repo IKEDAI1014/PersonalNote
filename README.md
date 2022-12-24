@@ -14,7 +14,7 @@ A personal note on optimizing your PC for gaming
 - NZXT kraken g12+NZXT KRAKEN X53(for GPU)
 - Corsair hx1200(PSU)
 - ASUS VG279QM(monitor)
-- Xtrfy ZM1's mouse shell+Zaunkoenig M2K's PCB(mouse)
+- Xtrfy MZ1's mouse shell+Zaunkoenig M2K's PCB(mouse)
 - Skypad 3.0 XL(mousepad)
 - Corsair K65 RGB Mini(keyboard)
 - Sennheiser GSX1200
