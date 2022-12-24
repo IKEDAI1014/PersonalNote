@@ -17,4 +17,4 @@ A personal note on optimizing your PC for gaming
 - Xtrfy MZ1's mouse shell+Zaunkoenig M2K's PCB(mouse)
 - Skypad 3.0 XL(mousepad)
 - Corsair K65 RGB Mini(keyboard)
-- Sennheiser GSX1200
+- Sennheiser GSX1200(USB Audio Amp)
