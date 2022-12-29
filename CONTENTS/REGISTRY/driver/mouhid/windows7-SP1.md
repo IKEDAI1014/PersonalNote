@@ -1,3 +1,4 @@
+```
 \REGISTRY\MACHINE\SYSTEM\ControlSet001\services\mouhid : BootFlags  
 \REGISTRY\MACHINE\SYSTEM\ControlSet001\services\mouhid : DelayedAutostart  
 \REGISTRY\MACHINE\SYSTEM\ControlSet001\services\mouhid : DeleteFlag  
@@ -20,3 +21,4 @@
 \REGISTRY\MACHINE\SYSTEM\ControlSet001\services\mouhid\Parameters : TreatAbsolutePointerAsAbsolute  
 \REGISTRY\MACHINE\SYSTEM\ControlSet001\services\mouhid\Parameters : UseOnlyMice  
 \REGISTRY\MACHINE\SYSTEM\ControlSet001\services\mouhid\Parameters : VerboseOn  
+```
