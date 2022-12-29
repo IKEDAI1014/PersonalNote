@@ -1,3 +1,4 @@
+``
 \REGISTRY\MACHINE\SYSTEM\ControlSet001\services\kbdclass : BootFlags  
 \REGISTRY\MACHINE\SYSTEM\ControlSet001\services\kbdclass : DelayedAutostart  
 \REGISTRY\MACHINE\SYSTEM\ControlSet001\services\kbdclass : DeleteFlag  
@@ -25,3 +26,4 @@
 \REGISTRY\MACHINE\SYSTEM\ControlSet001\services\kbdclass\Parameters : MaximumPortsServiced  
 \REGISTRY\MACHINE\SYSTEM\ControlSet001\services\kbdclass\Parameters : SendOutputToAllPorts  
 \REGISTRY\MACHINE\SYSTEM\ControlSet001\services\kbdclass\Parameters : VerboseOn  
+```
