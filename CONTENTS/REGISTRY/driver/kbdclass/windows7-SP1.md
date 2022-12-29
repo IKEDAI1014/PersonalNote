@@ -1,4 +1,4 @@
-``
+```
 \REGISTRY\MACHINE\SYSTEM\ControlSet001\services\kbdclass : BootFlags  
 \REGISTRY\MACHINE\SYSTEM\ControlSet001\services\kbdclass : DelayedAutostart  
 \REGISTRY\MACHINE\SYSTEM\ControlSet001\services\kbdclass : DeleteFlag  
