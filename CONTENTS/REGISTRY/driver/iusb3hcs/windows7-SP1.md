@@ -1,0 +1,35 @@
+```
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\iusb3hcs : BootFlags
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\iusb3hcs : DelayedAutostart
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\iusb3hcs : DeleteFlag
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\iusb3hcs : DependOnGroup
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\iusb3hcs : DependOnService
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\iusb3hcs : DisplayName
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\iusb3hcs : ErrorControl
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\iusb3hcs : Group
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\iusb3hcs : ImagePath
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\iusb3hcs : ObjectName
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\iusb3hcs : PnpFlags
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\iusb3hcs : Start
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\iusb3hcs : Tag
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\iusb3hcs : Type
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\iusb3hcs\ENUM : 0
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\iusb3hcs\ENUM : Count
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\iusb3hcs\Parameters\Wdf : DbgBreakOnDeviceStateError
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\iusb3hcs\Parameters\Wdf : DbgBreakOnError
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\iusb3hcs\Parameters\Wdf : DsfOn
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\iusb3hcs\Parameters\Wdf : EnhancedVerifierOptions
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\iusb3hcs\Parameters\Wdf : ForceLogsInMiniDump
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\iusb3hcs\Parameters\Wdf : LogPages
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\iusb3hcs\Parameters\Wdf : RemoveLockOptionFlags
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\iusb3hcs\Parameters\Wdf : RequestParentOptimizationOn
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\iusb3hcs\Parameters\Wdf : TimeOfLastSqmLog
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\iusb3hcs\Parameters\Wdf : TrackDriverForMiniDumpLog
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\iusb3hcs\Parameters\Wdf : VerboseOn
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\iusb3hcs\Parameters\Wdf : VerifierAllocateFailCount
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\iusb3hcs\Parameters\Wdf : VerifierOn
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\iusb3hcs\Parameters\Wdf : VerifyDownLevel
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\iusb3hcs\Parameters\Wdf : VerifyOn
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\iusb3hcs\Parameters\Wdf : WdfMajorVersion
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\iusb3hcs\Parameters\Wdf : WdfMinorVersion
+```
