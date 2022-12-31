@@ -9,6 +9,6 @@ List of registries used by windows
 ### Device-Class
 List of registries used by specific devices such as GPUs and NICs
 ### service
-List of registries used by specific driver
+List of registries used by specific service
 ### extra
 List of registries used at locations of personal interest
