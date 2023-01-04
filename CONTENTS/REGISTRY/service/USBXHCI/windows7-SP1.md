@@ -1,0 +1,36 @@
+```
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\USBXHCI : BootFlags
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\USBXHCI : DelayedAutostart
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\USBXHCI : DeleteFlag
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\USBXHCI : DependOnGroup
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\USBXHCI : DependOnService
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\USBXHCI : DisplayName
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\USBXHCI : ErrorControl
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\USBXHCI : Group
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\USBXHCI : ImagePath
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\USBXHCI : ObjectName
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\USBXHCI : PnpFlags
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\USBXHCI : Start
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\USBXHCI : Tag
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\USBXHCI : Type
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\USBXHCI\ENUM : 0
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\USBXHCI\ENUM : Count
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\USBXHCI\Parameters : UseStrictBiosHandoff
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\USBXHCI\Parameters\Wdf : DbgBreakOnDeviceStateError
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\USBXHCI\Parameters\Wdf : DbgBreakOnError
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\USBXHCI\Parameters\Wdf : DsfOn
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\USBXHCI\Parameters\Wdf : EnhancedVerifierOptions
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\USBXHCI\Parameters\Wdf : ForceLogsInMiniDump
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\USBXHCI\Parameters\Wdf : LogPages
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\USBXHCI\Parameters\Wdf : RemoveLockOptionFlags
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\USBXHCI\Parameters\Wdf : RequestParentOptimizationOn
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\USBXHCI\Parameters\Wdf : TimeOfLastSqmLog
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\USBXHCI\Parameters\Wdf : TrackDriverForMiniDumpLog
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\USBXHCI\Parameters\Wdf : VerboseOn
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\USBXHCI\Parameters\Wdf : VerifierAllocateFailCount
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\USBXHCI\Parameters\Wdf : VerifierOn
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\USBXHCI\Parameters\Wdf : VerifyDownLevel
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\USBXHCI\Parameters\Wdf : VerifyOn
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\USBXHCI\Parameters\Wdf : WdfMajorVersion
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\USBXHCI\Parameters\Wdf : WdfMinorVersion
+```
