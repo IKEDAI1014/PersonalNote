@@ -10,9 +10,9 @@ List of registries used by windows
 - select QueryValue and right click, click "Filter To Selection"
 - select QueryValue and search(Ctrl+f)
 
-### Device-Class
+### [Device-Class](/CONTENTS/REGISTRY/Device-Class)
 List of registries used by specific devices such as GPUs and NICs
-### service
+### [service](/CONTENTS/REGISTRY/service)
 List of registries used by specific service
-### extra
+### [extra](/CONTENTS/REGISTRY/extra)
 List of registries used at locations of personal interest
