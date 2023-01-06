@@ -1,6 +1,12 @@
 # REGISTRY
 List of registries used by windows
-## method
+## [Device-Class](/CONTENTS/REGISTRY/Device-Class)
+List of registries used by specific devices such as GPUs and NICs
+## [service](/CONTENTS/REGISTRY/service)
+List of registries used by specific service
+## [extra](/CONTENTS/REGISTRY/extra)
+List of registries used at locations of personal interest
+# method
 - install WPA(windows performance analyzer)
 - open cmd in WPA folder and type "xbootmgr -trace boot -traceFlags REGISTRY"
 - wait for prompt(delaying for boot trace) and push Finish
@@ -10,9 +16,4 @@ List of registries used by windows
 - select QueryValue and right click, click "Filter To Selection"
 - select QueryValue and search(Ctrl+f)
 
-### [Device-Class](/CONTENTS/REGISTRY/Device-Class)
-List of registries used by specific devices such as GPUs and NICs
-### [service](/CONTENTS/REGISTRY/service)
-List of registries used by specific service
-### [extra](/CONTENTS/REGISTRY/extra)
-List of registries used at locations of personal interest
+
