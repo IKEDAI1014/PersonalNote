@@ -7,3 +7,5 @@ All about the process and results of overclocking a 4400MHz DDR4 Samsung B-die c
 [Image1](https://raw.githubusercontent.com/IKEDAI1014/PersonalNote/main/CONTENTS/Benchs/Memory%20OC/samsung%20B-die/SR/results_page_1.png)  
 [Image2](https://raw.githubusercontent.com/IKEDAI1014/PersonalNote/main/CONTENTS/Benchs/Memory%20OC/samsung%20B-die/SR/results_page_2.png)  
 [pdf](https://github.com/IKEDAI1014/PersonalNote/raw/main/CONTENTS/Benchs/Memory%20OC/samsung%20B-die/SR/results.pdf)  
+# final result
+[image](https://raw.githubusercontent.com/IKEDAI1014/PersonalNote/main/CONTENTS/Benchs/Memory%20OC/samsung%20B-die/SR/SR%20samsung%20b-die%20Memory%20OC%20final.png)
