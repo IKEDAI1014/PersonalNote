@@ -1,11 +1,5 @@
 ```
 \Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : AnimationAttributionEnabled
-\Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : AnimationAttributionEnabled
-\Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : AnimationAttributionEnabled
-\Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : AnimationAttributionEnabled
-\Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : AnimationAttributionHashingEnabled
-\Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : AnimationAttributionHashingEnabled
-\Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : AnimationAttributionHashingEnabled
 \Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : AnimationAttributionHashingEnabled
 \Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : AnimationsShiftKey
 \Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : BackdropBlurCachingThrottleMs
@@ -16,10 +10,6 @@
 \Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : CpuClipAreaThreshold
 \Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : DDisplayTestMode
 \Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : DebugFailFast
-\Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : DebugFailFast
-\Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : DebugFailFast
-\Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : DebugFailFast
-\Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : DebugFailFast
 \Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : DisableAdvancedDirectFlip
 \Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : DisableDeviceBitmaps
 \Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : DisableDeviceBitmapsForMultiAdapter
@@ -29,9 +19,6 @@
 \Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : DisableLockingMemory
 \Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : DisableProjectedShadows
 \Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : DisableProjectedShadowsRendering
-\Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : DisallowNonDrawListRendering
-\Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : DisallowNonDrawListRendering
-\Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : DisallowNonDrawListRendering
 \Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : DisallowNonDrawListRendering
 \Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : DwmInitSessionActivityId_00000001
 \Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : EnableCommonSuperSets
@@ -54,9 +41,6 @@
 \Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : InkGPUAccelOverrideVendorWhitelist
 \Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : InteractionOutputPredictionDisabled
 \Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : LogExpressionPerfStats
-\Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : MarshalAllDebugInfo
-\Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : MarshalAllDebugInfo
-\Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : MarshalAllDebugInfo
 \Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : MarshalAllDebugInfo
 \Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : MaxD3DFeatureLevel
 \Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : MegaRectSearchCount
@@ -87,8 +71,6 @@
 \Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : TelemetryFramesReportPeriodMilliseconds
 \Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : TelemetryFramesSequenceIdleIntervalMilliseconds
 \Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : TelemetryFramesSequenceMaximumPeriodMilliseconds
-\Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : UniformSpaceDpiMode
-\Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : UniformSpaceDpiMode
 \Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : UniformSpaceDpiMode
 \Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : UseDPIScaling
 \Registry\Machine\SOFTWARE\Microsoft\Windows\Dwm : UseHWDrawListEntriesOnWARP
