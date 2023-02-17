@@ -3,7 +3,7 @@ A personal note on optimizing your PC for gaming
 ## Contents
 - [REGISTRY](/CONTENTS/REGISTRY) > List of registries used by windows
 - [Benchs](/CONTENTS/Benchs) > List of benchmarks by me
-- [LatencyMeasurementTool](/CONTENTS/latency-measurement-tool)
+- [click latency measurement device](/CONTENTS/click-latency-measurement-device) > About my click to photon latency measurement device
 ## Setup
 2PC(one for gaming, one for browsing and recording, talking)
 ### main PC
