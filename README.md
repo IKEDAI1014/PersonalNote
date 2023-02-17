@@ -1,8 +1,9 @@
 # Personal Note
 A personal note on optimizing your PC for gaming
 ## Contents
-- [REGISTRY](/CONTENTS/REGISTRY/) > List of registries used by windows
+- [REGISTRY](/CONTENTS/REGISTRY) > List of registries used by windows
 - [Benchs](/CONTENTS/Benchs) > List of benchmarks by me
+- [LatencyMeasurementTool](/CONTENTS/latency-measurement-tool)
 ## Setup
 2PC(one for gaming, one for browsing and recording, talking)
 ### main PC
