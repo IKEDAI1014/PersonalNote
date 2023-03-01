@@ -9,7 +9,7 @@ const float MIN_PULSE_DURATION = 1.1;
 unsigned long previousMillis = 0;
 const long interval = 200;
 unsigned long pulseStart, pulseEnd = 0;
-unsigned int numTries = 0;
+unsigned int measurementCount = 0;
 float pulseDuration, averagePulseDuration = 0.0;
 
 void setup() {
@@ -32,41 +32,30 @@ void loop() {
     previousMillis = millis();
     pulseDuration = ((pulseEnd > pulseStart) ? ((pulseEnd - pulseStart - 4) / 1000.0): 0.0);
     if (pulseDuration < MAX_PULSE_DURATION && pulseDuration > MIN_PULSE_DURATION) {
-      averagePulseDuration = ((averagePulseDuration * numTries) + pulseDuration) / (numTries + 1);
-      numTries += 1;
-      if (numTries == 1) {
-        lcd.home();
-        lcd.print("Try new");
-        lcd.setCursor(8, 0);
-        lcd.print(pulseDuration);
-        lcd.setCursor(14, 0);
-        lcd.print("ms");
-        lcd.setCursor(0, 1);
-        lcd.print(numTries);
-        lcd.setCursor(4, 1);
-        lcd.print("average");
-        lcd.setCursor(8, 1);
-        lcd.print(averagePulseDuration);
-        lcd.setCursor(14, 1);
-        lcd.print("ms");
+      averagePulseDuration = ((averagePulseDuration * measurementCount) + pulseDuration) / (measurementCount + 1);
+      measurementCount ++;
+      if (measurementCount == 1) {
         char buf[7];
         dtostrf(pulseDuration, 5, 3, buf);
+        lcd.setCursor(1, 0);
+        lcd.print("Samples : ");
+        lcd.print(measurementCount);
+        lcd.setCursor(1, 1);
+        lcd.print(buf);
+        lcd.setCursor(10, 1);
+        lcd.print(averagePulseDuration);
         Serial.println(buf);
       } else {
-        lcd.setCursor(8, 0);
-        lcd.print("      ");
-        lcd.setCursor(8, 0);
-        lcd.print(pulseDuration);
-        lcd.setCursor(0, 1);
-        lcd.print("    ");
-        lcd.setCursor(0, 1);
-        lcd.print(numTries);
-        lcd.setCursor(8, 1);
-        lcd.print("      ");
-        lcd.setCursor(8, 1);
-        lcd.print(averagePulseDuration);
         char buf[7];
         dtostrf(pulseDuration, 5, 3, buf);
+        lcd.setCursor(11, 0);
+        lcd.print(measurementCount);
+        lcd.setCursor(0, 1);
+        lcd.print("                ");
+        lcd.setCursor(1, 1);
+        lcd.print(buf);
+        lcd.setCursor(10, 1);
+        lcd.print(averagePulseDuration);
         Serial.println(buf);
       }
     }
