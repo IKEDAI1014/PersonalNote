@@ -24,8 +24,8 @@ void loop() {
   if (millis() - previousMillis >= interval) {
     while (digitalRead(PULSE_START_PIN) != LOW){
     }
-    delay(1);
     pulseStart = micros();
+    delay(1);
     while (digitalRead(PULSE_END_PIN) != HIGH){
     }
     pulseEnd = micros();
