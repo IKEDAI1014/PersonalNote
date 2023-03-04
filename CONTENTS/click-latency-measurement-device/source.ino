@@ -25,7 +25,7 @@ void loop() {
     while (digitalRead(PULSE_START_PIN) != LOW){
     }
     pulseStart = micros();
-    delay(1); //For interference prevention
+    delayMicroseconds(1000); //For interference prevention
     while (digitalRead(PULSE_END_PIN) != HIGH){
     }
     pulseEnd = micros();
