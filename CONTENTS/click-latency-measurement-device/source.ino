@@ -3,11 +3,11 @@ LiquidCrystal_I2C lcd(0x27, 16, 2);
 
 const int PULSE_START_PIN = 7;
 const int PULSE_END_PIN = 4;
-const float MAX_PULSE_DURATION = 100.0;
-const float MIN_PULSE_DURATION = 1.1;
+const float MAX_PULSE_DURATION = 60.0;
+const float MIN_PULSE_DURATION = 0.016;
 
 unsigned long previousMillis = 0;
-const long interval = 200;
+const long measureInterval = 200;
 unsigned long pulseStart, pulseEnd = 0;
 unsigned int measurementCount = 0;
 float pulseDuration, averagePulseDuration = 0.0;
@@ -21,11 +21,10 @@ void setup() {
 }
 
 void loop() {
-  if (millis() - previousMillis >= interval) {
+  if (millis() - previousMillis >= measureInterval) {
     while (digitalRead(PULSE_START_PIN) != LOW){
     }
     pulseStart = micros();
-    delayMicroseconds(1000); //For interference prevention
     while (digitalRead(PULSE_END_PIN) != HIGH){
     }
     pulseEnd = micros();
